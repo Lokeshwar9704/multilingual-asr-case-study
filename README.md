@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Hugging_Face-Transformers-FFD21E?logo=huggingface&logoColor=black" alt="Transformers"/>
   <img src="https://img.shields.io/badge/Dataset-Google_FLEURS-4285F4?logo=google&logoColor=white" alt="Google FLEURS"/>
   <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT"/>
-  <a href="https://colab.research.google.com/github/Lokeshwar9704/multilingual-asr-low-resource-indian-languages/blob/main/Multilingual_ASR_Case_Study_Complete.ipynb">
+  <a href="https://colab.research.google.com/github/Lokeshwar9704/multilingual-asr-case-study/blob/main/Multilingual_ASR_Case_Study_Complete.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
   </a>
 </p>
@@ -263,8 +263,8 @@ multilingual_asr_case_study/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Lokeshwar9704/multilingual-asr-low-resource-indian-languages.git
-   cd multilingual-asr-low-resource-indian-languages
+   git clone https://github.com/Lokeshwar9704/multilingual-asr-case-study.git
+   cd multilingual-asr-case-study
    ```
 
 2. **Create and activate a virtual environment:**
