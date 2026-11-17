@@ -1,0 +1,4 @@
+Language,WER,WER_raw,CER,CER_raw,Average latency,Median latency,RTF
+Telugu,283.63%,2.8363,154.92%,1.5492,4622.2 ms,5759.1 ms,0.476
+Kannada,166.35%,1.6635,128.69%,1.2869,2198.6 ms,1818.6 ms,0.157
+Tamil,137.54%,1.3754,93.93%,0.9393,5748.8 ms,5976.4 ms,0.474

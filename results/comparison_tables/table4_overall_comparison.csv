@@ -1,0 +1,7 @@
+Model,Language,WER,CER,Latency,RTF
+OpenAI Whisper,Telugu,283.63%,154.92%,4622.2 ms,0.476
+Wav2Vec2,Telugu,427.77%,53.06%,1498.6 ms,0.132
+OpenAI Whisper,Kannada,166.35%,128.69%,2198.6 ms,0.157
+Wav2Vec2,Kannada,511.59%,55.07%,2103.1 ms,0.140
+OpenAI Whisper,Tamil,137.54%,93.93%,5748.8 ms,0.474
+Wav2Vec2,Tamil,494.40%,57.42%,1839.1 ms,0.134
